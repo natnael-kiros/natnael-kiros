@@ -39,7 +39,7 @@ I'm an app developer and full-stack developer with a passion for creating innova
 ## 📫 Get in Touch
 
 - 📧 Email: (natikiros1212@gmail.com)
-- 🔗 [LinkedIn](linkedin-profile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/natnael-kiros-64622032a)
 
 Feel free to check out my repositories and connect with me if you're interested in collaboration or just want to chat about development!
 
