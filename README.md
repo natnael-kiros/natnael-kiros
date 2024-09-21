@@ -20,15 +20,15 @@ I'm an app developer and full-stack developer with a passion for creating innova
 
 ### 1. Attendance System
    - A Flutter application that utilizes Firebase and QR code scanning to manage attendance.
-   - [Link to repository]
+   - [Link to repository](https://github.com/natnael-kiros/attendance-system)
 
 ### 2. Chat Application
    - A real-time chat app with a server using WebSocket, allowing users to chat, create groups, and manage accounts.
-   - [Link to repository]
+   - [Link to repository](https://github.com/natnael-kiros/chat-app-flutter)
 
 ### 3. E-Commerce Web App
    - Developed with Vue.js and Node.js, enabling clients to search for and add products to their cart.
-   - [Link to repository]
+   - [Link to repository](https://github.com/natnael-kiros/chat-app-server)
 
 ## 💼 Goals
 
