@@ -7,7 +7,6 @@ I'm an app developer and full-stack developer with a passion for creating innova
 - 🌍 Based in Ethiopia
 - 💻 Proficient in multiple programming languages including Python, Dart, C, C++, Java, and JavaScript.
 - 🎓 Experienced in developing applications using frameworks like Flutter, Vue.js, Node.js, Django, and Kivy.
-- 📈 Currently seeking job opportunities in programming, with a willingness to learn new languages and technologies.
 
 ## 🛠️ Technologies & Tools
 
