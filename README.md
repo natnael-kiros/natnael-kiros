@@ -28,7 +28,7 @@ I'm an app developer, full-stack developer and penetration tester with a passion
 
 ### 3. E-Commerce Web App
    - Developed with Vue.js and Node.js, enabling clients to search for and add products to their cart.
-   - [Link to repository](https://github.com/natnael-kiros/chat-app-server)
+   - [Link to repository](https://github.com/natnael-kiros/e-commerce-node.js)
 
 ## 💼 Goals
 
